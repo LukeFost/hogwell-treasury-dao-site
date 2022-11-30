@@ -1,6 +1,6 @@
 import React from "react";
 import theme from "theme";
-import { Theme, Link, Text, Box, Section, Image, Span, Input, Icon, Button } from "@quarkly/widgets";
+import { Theme, Link, Image, Box, Section, Text, Span, Input, Icon, Button } from "@quarkly/widgets";
 import { Helmet } from "react-helmet";
 import { GlobalQuarklyPageStyles } from "global-page-styles";
 import { RawHtml, Override, SocialMedia } from "@quarkly/components";
@@ -26,6 +26,7 @@ export default (() => {
 		</Helmet>
 		<Section padding="38px 0 38px 0" quarkly-title="Header">
 			<Override slot="SectionContent" flex-direction="row" display="flex" />
+			<Image src="https://uploads.quarkly.io/6386ff7f855d39001fcded51/images/untitled_1_1.png?v=2022-11-30T07:09:36.960Z" display="block" />
 			<Link
 				text-decoration-line="initial"
 				hover-opacity=".8"
@@ -34,14 +35,7 @@ export default (() => {
 				sm-width="50%"
 				href="/"
 				display="flex"
-			>
-				<Text font="normal 700 14px/1.5 --fontFamily-googleFiraSans" color="#1064C7" transform="rotate(-90deg)" margin="0px 0px 0px 0px">
-					b2b
-				</Text>
-				<Text margin="0px 0px 0px 0px" font="--lead" color="--dark">
-					e-Platform
-				</Text>
-			</Link>
+			/>
 			<Components.QuarklycommunityKitMobileSidePanel md-justify-content="flex-end">
 				<Override slot="Children" display="flex" />
 				<Override slot="Content" padding="0px 0px 0px 0px" md-margin="38px 0px 0px 0px" />
@@ -146,10 +140,12 @@ export default (() => {
 					flex="1 1 0%"
 				>
 					<Text font="--headline3" color="--light" sm-font="400 36px/1.2 &quot;Fira Sans&quot;, sans-serif" margin="0px 0px 0px 0px">
-						B2B Matchmaking Has Never Been Easier
+						Hogwell Treasury DAO
 					</Text>
 					<Text margin="32px 0px 0px 0px" font="--lead" color="--light" md-padding="0px 0px 40px 0px">
-						Targeted dialogues between customers and merchants based on their profiles and preferences will redefine networking.
+						Make an edit here **
+						<br />
+						<br />
 					</Text>
 				</Box>
 			</Box>
