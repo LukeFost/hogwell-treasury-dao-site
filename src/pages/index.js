@@ -9,7 +9,7 @@ export default (() => {
 		<GlobalQuarklyPageStyles pageUrl={"index"} />
 		<Helmet>
 			<title>
-				Business Matchmaking Has Never Been Easier
+				Hogwell
 			</title>
 			<meta name={"description"} content={"Hogwell is a DAO-based fund focused on simple straighforward economics and principles."} />
 			<meta property={"og:title"} content={"Hogwell"} />
@@ -143,10 +143,10 @@ export default (() => {
 					md-font="normal 700 42px/1.2 &quot;Source Sans Pro&quot;, sans-serif"
 					margin="16px 0px 0px 0px"
 				>
-					Cases
+					Strategies
 				</Text>
 				<Text font="--lead" color="--darkL2" max-width="600px">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+					These are a the main strategies employed in order to create returns for our DAO. 
 				</Text>
 			</Box>
 			<LinkBox
@@ -199,14 +199,14 @@ export default (() => {
 					lg-padding="16px 12px 16px 12px"
 				>
 					<Text margin="0px 0px 16px 0px" font="--lead" color="--darkL2" opacity="0.5">
-						2021
+						In Development
 					</Text>
 					<Box padding="0px 50px 0px 0px" lg-width="70%" sm-width="100%" lg-padding="0px 0px 0px 0px">
 						<Text margin="0px 0px 8px 0px" font="--headline3" color="--dark">
 							Maximum Extractable Value (MEV)
 						</Text>
 						<Text margin="0px 0px 0px 0px" font="--lead" color="--darkL2">
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+							MEV is currently our primary research and development goal of the DAO. Increasing the DeFi market efficency and reducing price volatility for market participants. 
 						</Text>
 					</Box>
 				</Box>
@@ -263,14 +263,14 @@ export default (() => {
 					lg-padding="16px 12px 16px 12px"
 				>
 					<Text margin="0px 0px 16px 0px" font="--lead" color="--darkL2" opacity="0.5">
-						2021
+						Current Stategy
 					</Text>
 					<Box padding="0px 50px 0px 0px" lg-width="70%" lg-padding="0px 0px 0px 0px" sm-width="100%">
 						<Text margin="0px 0px 8px 0px" font="--headline3" color="--dark">
 							Yield Strategies
 						</Text>
 						<Text margin="0px 0px 0px 0px" font="--lead" color="--darkL2">
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+							Yield Strategy setup is kept relatively secret in order to reduce saturation from competition, but their general makeup is competely public and availbe to see on our deBank profile.
 						</Text>
 					</Box>
 				</Box>
@@ -325,14 +325,14 @@ export default (() => {
 					lg-padding="16px 12px 16px 12px"
 				>
 					<Text margin="0px 0px 16px 0px" font="--lead" color="--darkL2" opacity="0.5">
-						2021
+						Current
 					</Text>
 					<Box padding="0px 50px 0px 0px" lg-width="70%" lg-padding="0px 0px 0px 0px" sm-width="100%">
 						<Text margin="0px 0px 8px 0px" font="--headline3" color="--dark">
 							Directional Investments
 						</Text>
 						<Text margin="0px 0px 0px 0px" font="--lead" color="--darkL2">
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+							The fund has a sizable investment in DeFi products that it uses and believes will provide great service in the future, so investment is only a natural result of this use. 
 						</Text>
 					</Box>
 				</Box>

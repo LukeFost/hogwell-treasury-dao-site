@@ -11,18 +11,18 @@ export default (() => {
 		<GlobalQuarklyPageStyles pageUrl={"404"} />
 		<Helmet>
 			<title>
-				Business Matchmaking Has Never Been Easier
+				Hogwell
 			</title>
-			<meta name={"description"} content={"Manage all your events in a single app. Our online event management platform provides various services event planners and project managers may need."} />
-			<meta property={"og:title"} content={"Business Matchmaking Has Never Been Easier"} />
-			<meta property={"og:description"} content={"Manage all your events in a single app. Our online event management platform provides various services event planners and project managers may need."} />
-			<meta property={"og:image"} content={"https://uploads.quarkly.io/6143a05129a0a1001e6c835c/images/OG-image.png?v=2021-09-22T11:33:13.239Z"} />
-			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/6143a05129a0a1001e6c835c/images/favicon%2032x32.png?v=2021-09-22T11:33:41.498Z"} type={"image/x-icon"} />
-			<link rel={"apple-touch-icon"} href={"https://uploads.quarkly.io/6143a05129a0a1001e6c835c/images/152x152.png?v=2021-09-22T11:33:48.679Z"} />
-			<link rel={"apple-touch-icon"} sizes={"76x76"} href={"https://uploads.quarkly.io/6143a05129a0a1001e6c835c/images/152x152.png?v=2021-09-22T11:33:48.679Z"} />
-			<link rel={"apple-touch-icon"} sizes={"152x152"} href={"https://uploads.quarkly.io/6143a05129a0a1001e6c835c/images/152x152.png?v=2021-09-22T11:33:48.679Z"} />
-			<link rel={"apple-touch-startup-image"} href={"https://uploads.quarkly.io/6143a05129a0a1001e6c835c/images/152x152.png?v=2021-09-22T11:33:48.679Z"} />
-			<meta name={"msapplication-TileImage"} content={"https://uploads.quarkly.io/6143a05129a0a1001e6c835c/images/270x270.png?v=2021-09-22T11:33:55.934Z"} />
+			<meta name={"description"} content={"Hogwell is a DAO-based fund focused on simple straighforward economics and principles."} />
+			<meta property={"og:title"} content={"Hogwell"} />
+			<meta property={"og:description"} content={"Hogwell is a DAO-based fund focused on simple straighforward economics and principles."} />
+			<meta property={"og:image"} content={"https://gateway.pinata.cloud/ipfs/QmWHypqAKJ6zsDENjoCTCRrPh475ht83Q6SYNC4W3qyNS8"} />
+			<link rel={"shortcut icon"} href={"https://gateway.pinata.cloud/ipfs/QmWHypqAKJ6zsDENjoCTCRrPh475ht83Q6SYNC4W3qyNS8"} type={"image/x-icon"} />
+			<link rel={"apple-touch-icon"} href={"https://gateway.pinata.cloud/ipfs/QmWHypqAKJ6zsDENjoCTCRrPh475ht83Q6SYNC4W3qyNS8"} />
+			<link rel={"apple-touch-icon"} sizes={"76x76"} href={"https://gateway.pinata.cloud/ipfs/QmWHypqAKJ6zsDENjoCTCRrPh475ht83Q6SYNC4W3qyNS8"} />
+			<link rel={"apple-touch-icon"} sizes={"152x152"} href={"https://gateway.pinata.cloud/ipfs/QmWHypqAKJ6zsDENjoCTCRrPh475ht83Q6SYNC4W3qyNS8"} />
+			<link rel={"apple-touch-startup-image"} href={"https://gateway.pinata.cloud/ipfs/QmWHypqAKJ6zsDENjoCTCRrPh475ht83Q6SYNC4W3qyNS8"} />
+			<meta name={"msapplication-TileImage"} content={"https://gateway.pinata.cloud/ipfs/QmWHypqAKJ6zsDENjoCTCRrPh475ht83Q6SYNC4W3qyNS8"} />
 		</Helmet>
 		<Section padding="38px 0 38px 0" quarkly-title="Header">
 			<Override slot="SectionContent" display="flex" flex-direction="row" />

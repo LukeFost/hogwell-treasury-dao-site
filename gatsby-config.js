@@ -1,9 +1,9 @@
 module.exports = {
     siteMetadata: {
-        title: "Quarkly gatsby project",
+        title: "Hogwell Treasury Website",
         description: "",
-        author: "@Luke Foster",
-        siteUrl: "https://hogwell-treasury.netlify.app"
+        author: "@coolguy",
+        siteUrl: "https://hogwell.net/"
     },
     plugins: [
         "gatsby-plugin-react-helmet",
